@@ -1,2 +1,2 @@
 # CryptShield
-Pequeña APK de codigo abierto para conectarse a la red Tor, DNSCRYPT e I2P
+Bienvenido a CryptShield, este es un proyecto pequeño para la creacion de una APP para android capaz de anonimizar tu conexion atraves de la red Tor, I2P y DNSCRYPT. Este proyecto lo cree ya que ultimamente, estoy pensando en que las monstruosas empresas como Google tienen todos nuestros datos, y eso debe acabar, tenemos soluciones en PC, como usar Tails, pero para Android no hay nada, de momento es una APK pero quien sabe si en un futuro conseguimos ser varios y crear hasta nuestro propio OS con la privacidad maxima
